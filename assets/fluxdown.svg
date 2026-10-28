@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380" role="img" aria-labelledby="t d">
+  <title id="t">FluxDown — Downloads, Supercharged.</title>
+  <desc id="d">Rust-powered multi-protocol download manager: HTTP/HTTPS, FTP, BitTorrent, eD2K, HLS and DASH with dynamic segmentation. Free, open source, no ads.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1222"/>
+      <stop offset="1" stop-color="#05070d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.85" cy="0.9" r="0.55">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <clipPath id="card"><rect width="1000" height="380" rx="22"/></clipPath>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
+      .serif { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif; font-style: italic; }
+      .mono { font-family: "JetBrains Mono", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+      .chip rect { fill: #ffffff; fill-opacity: .05; stroke: #ffffff; stroke-opacity: .12; }
+      .chip text { fill: #cbd5e1; }
+      .float { animation: float 5s ease-in-out infinite; }
+      .live { animation: live 1.6s ease-in-out infinite; }
+      @keyframes float { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-4px) } }
+      @keyframes live { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="380" fill="url(#bg)"/>
+    <rect width="1000" height="380" fill="url(#grid)"/>
+    <rect width="1000" height="380" fill="url(#glow)"/>
+    <rect width="1000" height="380" fill="url(#glow2)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="379" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
+
+  <!-- left: identity -->
+  <g transform="translate(44 46)">
+    <g class="float">
+      <rect width="56" height="56" rx="13" fill="#3b82f6"/>
+      <path transform="translate(-7.84 -7.84) scale(0.14)" d="M226 131Q226 119 238 119L274 119Q286 119 286 131L286 296L331 251Q340 242 349 251L363 265Q372 274 363 283L265 381Q256 390 247 381L149 283Q140 274 149 265L163 251Q172 242 181 251L226 296Z" fill="#f2f4f8"/>
+    </g>
+    <text class="mono" x="72" y="22" font-size="11.5" fill="#60a5fa" letter-spacing="2">FLAGSHIP · ZERXLAB</text>
+    <text class="sans" x="72" y="50" font-size="30" font-weight="700" fill="#f8fafc" letter-spacing="-0.5">FluxDown</text>
+
+    <text class="serif" x="0" y="112" font-size="38" fill="url(#accent)">Downloads, Supercharged.</text>
+    <text class="sans" x="0" y="148" font-size="15.5" fill="#cbd5e1">Rust 驱动的多协议下载管理器 · 免费的开源 IDM 替代品</text>
+    <text class="sans" x="0" y="174" font-size="13.5" fill="#94a3b8">智能动态分段 · 浏览器无缝接管 · 内置 MCP · 永久免费，零广告</text>
+
+    <g class="mono" font-size="12">
+      <g class="chip" transform="translate(0 200)"><rect width="88" height="26" rx="13"/><text x="44" y="17" text-anchor="middle">HTTP(S)</text></g>
+      <g class="chip" transform="translate(96 200)"><rect width="52" height="26" rx="13"/><text x="26" y="17" text-anchor="middle">FTP</text></g>
+      <g class="chip" transform="translate(156 200)"><rect width="100" height="26" rx="13"/><text x="50" y="17" text-anchor="middle">BitTorrent</text></g>
+      <g class="chip" transform="translate(264 200)"><rect width="60" height="26" rx="13"/><text x="30" y="17" text-anchor="middle">eD2K</text></g>
+      <g class="chip" transform="translate(332 200)"><rect width="52" height="26" rx="13"/><text x="26" y="17" text-anchor="middle">HLS</text></g>
+      <g class="chip" transform="translate(392 200)"><rect width="60" height="26" rx="13"/><text x="30" y="17" text-anchor="middle">DASH</text></g>
+    </g>
+
+    <g class="mono" font-size="11.5" fill="#64748b" letter-spacing="1">
+      <text x="0" y="262">WINDOWS · MACOS · LINUX · NAS · ANDROID</text>
+      <text x="0" y="284">GPUI DESKTOP · WEB UI · CLI · REST · ARIA2 RPC · MCP</text>
+    </g>
+  </g>
+
+  <!-- right: app window mock -->
+  <g transform="translate(548 40)">
+    <rect width="412" height="300" rx="14" fill="#0d1117" stroke="#ffffff" stroke-opacity="0.1"/>
+    <path d="M14 0H398A14 14 0 0 1 412 14V40H0V14A14 14 0 0 1 14 0Z" fill="#161b22"/>
+    <circle cx="20" cy="20" r="5.5" fill="#ff5f57"/>
+    <circle cx="38" cy="20" r="5.5" fill="#febc2e"/>
+    <circle cx="56" cy="20" r="5.5" fill="#28c840"/>
+    <rect x="300" y="9" width="98" height="22" rx="6" fill="#3b82f6"/>
+    <text class="sans" x="349" y="24.5" font-size="12" fill="#fff" text-anchor="middle">＋ 新建下载</text>
+
+    <g class="sans" font-size="12.5">
+      <!-- row 1 -->
+      <g transform="translate(18 66)">
+        <text fill="#e2e8f0">debian-12.7.0-amd64.iso</text>
+        <text x="376" text-anchor="end" fill="#60a5fa" class="mono" font-size="11.5">98.7 MB/s</text>
+        <rect y="12" width="376" height="5" rx="2.5" fill="#ffffff" fill-opacity="0.06"/>
+        <g fill="url(#bar)">
+          <rect y="12" height="5" rx="2.5" x="0" width="44"><animate attributeName="width" values="8;44;44" keyTimes="0;.6;1" dur="3.2s" repeatCount="indefinite"/></rect>
+          <rect y="12" height="5" rx="2.5" x="47" width="44"><animate attributeName="width" values="4;44;44" keyTimes="0;.8;1" dur="3.2s" repeatCount="indefinite"/></rect>
+          <rect y="12" height="5" rx="2.5" x="94" width="44"><animate attributeName="width" values="12;44;44" keyTimes="0;.5;1" dur="3.2s" repeatCount="indefinite"/></rect>
+          <rect y="12" height="5" rx="2.5" x="141" width="44"><animate attributeName="width" values="2;44;44" keyTimes="0;.9;1" dur="3.2s" repeatCount="indefinite"/></rect>
+          <rect y="12" height="5" rx="2.5" x="188" width="44"><animate attributeName="width" values="10;44;44" keyTimes="0;.65;1" dur="3.2s" repeatCount="indefinite"/></rect>
+          <rect y="12" height="5" rx="2.5" x="235" width="44"><animate attributeName="width" values="6;44;44" keyTimes="0;.7;1" dur="3.2s" repeatCount="indefinite"/></rect>
+          <rect y="12" height="5" rx="2.5" x="282" width="44"><animate attributeName="width" values="0;44;44" keyTimes="0;.85;1" dur="3.2s" repeatCount="indefinite"/></rect>
+          <rect y="12" height="5" rx="2.5" x="329" width="47"><animate attributeName="width" values="3;47;47" keyTimes="0;.75;1" dur="3.2s" repeatCount="indefinite"/></rect>
+        </g>
+      </g>
+      <!-- row 2 -->
+      <g transform="translate(18 120)">
+        <text fill="#e2e8f0">sintel-4k.mkv</text>
+        <text x="296" text-anchor="end" fill="#64748b" class="mono" font-size="10.5">HLS</text>
+        <text x="376" text-anchor="end" fill="#60a5fa" class="mono" font-size="11.5">11.5 MB/s</text>
+        <rect y="12" width="376" height="5" rx="2.5" fill="#ffffff" fill-opacity="0.06"/>
+        <g fill="url(#bar)">
+          <rect y="12" height="5" rx="2.5" x="0" width="90"><animate attributeName="width" values="20;90;90" keyTimes="0;.7;1" dur="4.4s" repeatCount="indefinite"/></rect>
+          <rect y="12" height="5" rx="2.5" x="94" width="90"><animate attributeName="width" values="10;90;90" keyTimes="0;.85;1" dur="4.4s" repeatCount="indefinite"/></rect>
+          <rect y="12" height="5" rx="2.5" x="188" width="90"><animate attributeName="width" values="30;90;90" keyTimes="0;.6;1" dur="4.4s" repeatCount="indefinite"/></rect>
+          <rect y="12" height="5" rx="2.5" x="282" width="94"><animate attributeName="width" values="0;94;94" keyTimes="0;.9;1" dur="4.4s" repeatCount="indefinite"/></rect>
+        </g>
+      </g>
+      <!-- row 3 -->
+      <g transform="translate(18 174)">
+        <text fill="#e2e8f0">archlinux-x86_64.iso</text>
+        <text x="296" text-anchor="end" fill="#64748b" class="mono" font-size="10.5">BT</text>
+        <text x="376" text-anchor="end" fill="#60a5fa" class="mono" font-size="11.5">42.3 MB/s</text>
+        <rect y="12" width="376" height="5" rx="2.5" fill="#ffffff" fill-opacity="0.06"/>
+        <rect y="12" height="5" rx="2.5" width="376" fill="url(#bar)"><animate attributeName="width" values="60;376;376" keyTimes="0;.8;1" dur="5s" repeatCount="indefinite"/></rect>
+      </g>
+      <!-- row 4 -->
+      <g transform="translate(18 228)">
+        <text fill="#94a3b8">rustconf-keynote.m4a</text>
+        <text x="376" text-anchor="end" fill="#22c55e" font-size="12">已完成</text>
+        <rect y="12" width="376" height="5" rx="2.5" fill="#22c55e" fill-opacity="0.35"/>
+      </g>
+    </g>
+
+    <!-- status bar -->
+    <line x1="0" y1="268" x2="412" y2="268" stroke="#ffffff" stroke-opacity="0.08"/>
+    <circle class="live" cx="20" cy="284" r="3.5" fill="#22c55e"/>
+    <text class="mono" x="32" y="288" font-size="11.5" fill="#cbd5e1">↓ 152.5 MB/s</text>
+    <text class="mono" x="394" y="288" font-size="11" fill="#64748b" text-anchor="end">关掉窗口，下载照旧</text>
+  </g>
+</svg>

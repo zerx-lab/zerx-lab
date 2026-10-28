@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" role="img" aria-labelledby="t">
+  <title id="t">Thanks for stopping by — ZerxLab</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#05070d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="1" r="0.7">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="0.55" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1000" height="120" rx="22"/></clipPath>
+    <style>
+      .serif { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif; font-style: italic; }
+      .mono { font-family: "JetBrains Mono", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+      .breathe { animation: breathe 6s ease-in-out infinite; }
+      @keyframes breathe { 0%,100% { opacity: .6 } 50% { opacity: 1 } }
+    </style>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1000" height="120" fill="url(#bg)"/>
+    <rect class="breathe" width="1000" height="120" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="119" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
+  <text class="serif" x="500" y="58" font-size="28" text-anchor="middle" fill="url(#accent)">Thanks for stopping by.</text>
+  <text class="mono" x="500" y="88" font-size="12" text-anchor="middle" fill="#64748b" letter-spacing="2.4">ZERXLAB · FAST · BEAUTIFUL · OPEN</text>
+</svg>

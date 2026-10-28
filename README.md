@@ -1,561 +1,257 @@
-# 🚀 欢迎来到 ZerxLab 的世界 🌟
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ZerxLab&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50"/>
+<a href="https://zerx.dev"><img src="./assets/hero.svg" width="100%" alt="ZerxLab — Crafting tools that feel instant."/></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔥+Golang+%26+React+专家;⚡+高性能后端架构师)](https://git.io/typing-svg)
+<br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-### 💫 连接世界，编织未来
-[![Github](https://img.shields.io/badge/🐙_Github-000000?style=for-the-badge&logo=Github&logoColor=white&labelColor=000000)](https://github.com/ZerxLab)
-[![Gmail](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335)](mailto:clown166997982@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ZerxLab&color=blueviolet&style=for-the-badge&label=🔥_Profile_Views)](https://github.com/ZerxLab)
-[![Followers](https://img.shields.io/github/followers/ZerxLab?style=for-the-badge&logo=github&label=🌟_Followers&color=yellow)](https://github.com/ZerxLab?tab=followers)
+<a href="https://zerx.dev"><img src="https://img.shields.io/badge/zerx.dev-0d1117?style=for-the-badge&logo=astro&logoColor=white" alt="Website"/></a>
+<a href="https://fluxdown.com"><img src="https://img.shields.io/badge/FluxDown-3b82f6?style=for-the-badge&logo=rust&logoColor=white" alt="FluxDown"/></a>
+<a href="mailto:clown166997982@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/zerx-lab?tab=followers"><img src="https://img.shields.io/github/followers/zerx-lab?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=22d3ee" alt="Followers"/></a>
 
 </div>
 
----
+<br/>
 
-<details>
-<summary>🎯 <b>点击展开 - 关于我的故事</b></summary>
-<br>
+### 👋 你好，我是 zero
 
-<div align="center">
+**ZerxLab** 的主理人，一个把「好用」当作信仰的独立开发者。我相信好工具应该 **启动即用、动画顺滑、界面耐看、代码干净** —— ZerxLab 就是我一个人的实验室，专门做这样的东西。
 
-### 🌟 技术之路，永无止境
-
-```ascii
-    🌱 Started Journey        🚀 Current Level         🎯 Future Goals
-         │                         │                      │
-    ┌────▼────┐              ┌─────▼─────┐          ┌─────▼─────┐
-    │ Student │──────────────▶│ Developer │─────────▶│  Expert   │
-    └─────────┘              └───────────┘          └───────────┘
-        2020                     2024                   2026+
-```
-
-</div>
-
-**🎭 我的技术哲学：**
-> *"代码不仅仅是逻辑的堆砌，更是思想与创意的完美融合。每一行代码都承载着改变世界的可能。"*
-
-**💼 专业标签：**
-- 🔭 **核心项目：** [WordZero](https://github.com/ZerxLab/wordZero) - 革命性的Golang Word文档处理引擎
-- 🌱 **技术栈：** Golang • React • Redis • MySQL • MongoDB • Docker
-- 🎯 **专业领域：** 高并发后端架构 • 文档处理算法 • 全栈Web开发 • 微服务设计
-- ⚡ **开源影响：** 169+ Stars • 8+ Forks • 活跃开源贡献者
-- 🌍 **协作方式：** 远程优先 • 敏捷开发 • 代码审查
-- 📫 **商务合作：** clown166997982@gmail.com
-
-</details>
-
----
-
-<div align="center">
-
-## 🏆 明星项目展示台
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-
-### 🌟 WordZero - 下一代Golang文档处理引擎
-
-<a href="https://github.com/ZerxLab/wordZero">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZerxLab&repo=wordZero&theme=tokyonight&border_color=61dafb&border_radius=10&cache_seconds=86400" alt="WordZero Repository Card"/>
-</a>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h4>🚀 WordZero</h4>
-        <p><strong>下一代Golang文档处理引擎</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-          <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
-        </p>
-        <p>
-          <a href="https://github.com/ZerxLab/wordZero">
-            <img src="https://img.shields.io/badge/查看项目-blue?style=for-the-badge&logo=github"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🎯 项目特色与技术亮点
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-        <h4>🚀 零依赖架构</h4>
-        <p>纯Go实现，无外部依赖<br/>轻量级，易于集成</p>
-      </td>
-      <td align="center" width="33%">
-        <img width="64" height="64" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
-        <h4>⚡ 极致性能</h4>
-        <p>平均处理速度 2.62ms<br/>比Python快21倍</p>
-      </td>
-      <td align="center" width="33%">
-        <img width="64" height="64" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
-        <h4>🎨 丰富功能</h4>
-        <p>18种预定义样式<br/>完整OOXML支持</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 📊 性能基准测试对比
-
-```mermaid
-graph LR
-    A[Golang WordZero<br/>2.62ms] --> B[JavaScript<br/>9.63ms<br/>📈 3.7x slower]
-    A --> C[Python<br/>55.98ms<br/>📈 21x slower]
-    
-    style A fill:#00ADD8,stroke:#fff,stroke-width:3px,color:#fff
-    style B fill:#F7DF1E,stroke:#000,stroke-width:2px,color:#000
-    style C fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 技术宇宙图谱
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-
-### 🌐 后端宇宙
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000)
-
-**🔧 框架工具**
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</div>
-      </td>
-      <td valign="top" width="50%">
-
-### 🎨 前端星系
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000)
-
-**🎭 UI框架**
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-</div>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-### 🗄️ 数据银河
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000)
-
-**⚡ 缓存 & 队列**
-![Memcached](https://img.shields.io/badge/Memcached-1BA0C4?style=flat-square&logo=memcached&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-</div>
-      </td>
-      <td valign="top">
-
-### 🛠️ 工具箱
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000)
-
-**☁️ 云服务**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-</div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-
-## 📊 数据驱动的成长轨迹
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ZerxLab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" alt="GitHub Stats"/>
-      </td>
-      <td align="center">
-        <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ZerxLab&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&border_radius=8" alt="GitHub Streak"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZerxLab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=8" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🎯 项目成就统计
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🏆_总_Star_数-169+-FFD700?style=for-the-badge&labelColor=000000"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🔀_总_Fork_数-8+-32CD32?style=for-the-badge&labelColor=000000"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📦_公开仓库-1+-1E90FF?style=for-the-badge&labelColor=000000"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⚡_提交次数-100+-FF69B4?style=for-the-badge&labelColor=000000"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🌟_贡献项目-5+-9370DB?style=for-the-badge&labelColor=000000"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎯_代码行数-10K+-FF4500?style=for-the-badge&labelColor=000000"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 代码活动热力图
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZerxLab&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true&custom_title=📈%20ZerxLab's%20Contribution%20Graph)
-
-### 🏆 成就徽章收藏
-
-![Achievement](https://github-profile-trophy.vercel.app/?username=ZerxLab&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-<div align="center">
-
-## 💫 技术能力矩阵
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-
-<div align="center">
-
-### 🎯 核心技术栈精通度分析
+- ⚡ **正在做**：[**FluxDown**](https://github.com/zerx-lab/FluxDown) —— Rust 写的多协议下载管理器，以及它的插件、主题、嗅探规则与分发生态
+- 🖥️ **着迷于**：GPUI 原生桌面 · 终端与 AI Agent 工具链 · 本地优先（local-first）软件
+- 🧰 **常用**：Rust · Go · TypeScript，需要时也写 Swift / C# / Flutter / Luau
+- 💌 **聊聊**：[clown166997982@gmail.com](mailto:clown166997982@gmail.com) · FluxDown 用户群 [832143651](https://fluxdown.com/qq-group)
+- 💝 **彩蛋**：偶尔也给媳妇写个[打字练习网站](https://github.com/zerx-lab/ji-key)
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 10px;">
-        <h3 style="color: white; margin-bottom: 15px;">🔥 后端开发</h3>
-        <div style="background: rgba(255,255,255,0.2); border-radius: 20px; padding: 5px; margin: 10px 0;">
-          <div style="width: 90%; height: 8px; background: linear-gradient(90deg, #00ADD8, #61DAFB); border-radius: 10px; position: relative;">
-            <span style="position: absolute; right: -30px; top: -20px; color: #FFD700; font-weight: bold; font-size: 14px;">90%</span>
-          </div>
-        </div>
-        <div style="color: rgba(255,255,255,0.9); font-size: 12px; margin-top: 10px;">
-          <strong>Golang • Node.js • Python • 微服务架构</strong>
-        </div>
-      </div>
+    <td width="33%" valign="top">
+      <b>⚡ 快，是一种尊重</b><br/>
+      <sub>原生渲染、并行与零拷贝优先；能 1ms 完成的事，不让人等 10ms。</sub>
     </td>
-    <td align="center" width="50%">
-      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 10px;">
-        <h3 style="color: white; margin-bottom: 15px;">🎨 前端开发</h3>
-        <div style="background: rgba(255,255,255,0.2); border-radius: 20px; padding: 5px; margin: 10px 0;">
-          <div style="width: 80%; height: 8px; background: linear-gradient(90deg, #61DAFB, #F7DF1E); border-radius: 10px; position: relative;">
-            <span style="position: absolute; right: -30px; top: -20px; color: #FFD700; font-weight: bold; font-size: 14px;">80%</span>
-          </div>
-        </div>
-        <div style="color: rgba(255,255,255,0.9); font-size: 12px; margin-top: 10px;">
-          <strong>React • TypeScript • Next.js • 现代化UI</strong>
-        </div>
-      </div>
+    <td width="33%" valign="top">
+      <b>🎨 细节即品味</b><br/>
+      <sub>一个间距、一帧动画、一句文案，都值得反复打磨。</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 15px; margin: 10px;">
-        <h3 style="color: white; margin-bottom: 15px;">🗄️ 数据库设计</h3>
-        <div style="background: rgba(255,255,255,0.2); border-radius: 20px; padding: 5px; margin: 10px 0;">
-          <div style="width: 85%; height: 8px; background: linear-gradient(90deg, #F39C12, #E67E22); border-radius: 10px; position: relative;">
-            <span style="position: absolute; right: -30px; top: -20px; color: #FFD700; font-weight: bold; font-size: 14px;">85%</span>
-          </div>
-        </div>
-        <div style="color: rgba(255,255,255,0.9); font-size: 12px; margin-top: 10px;">
-          <strong>MySQL • MongoDB • Redis • 数据建模</strong>
-        </div>
-      </div>
-    </td>
-    <td align="center">
-      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 15px; margin: 10px;">
-        <h3 style="color: white; margin-bottom: 15px;">☁️ DevOps运维</h3>
-        <div style="background: rgba(255,255,255,0.2); border-radius: 20px; padding: 5px; margin: 10px 0;">
-          <div style="width: 70%; height: 8px; background: linear-gradient(90deg, #3498DB, #2980B9); border-radius: 10px; position: relative;">
-            <span style="position: absolute; right: -30px; top: -20px; color: #FFD700; font-weight: bold; font-size: 14px;">70%</span>
-          </div>
-        </div>
-        <div style="color: rgba(255,255,255,0.9); font-size: 12px; margin-top: 10px;">
-          <strong>Docker • Kubernetes • AWS • CI/CD</strong>
-        </div>
-      </div>
+    <td width="33%" valign="top">
+      <b>🔓 开放且本地优先</b><br/>
+      <sub>开源、无广告、不强制账号；你的数据默认只属于你。</sub>
     </td>
   </tr>
 </table>
 
-### 🚀 专业技能雷达图
+<br/>
+
+## ⚡ FluxDown <sub><sub>主力项目 · Flagship</sub></sub>
+
+<a href="https://github.com/zerx-lab/FluxDown"><img src="./assets/fluxdown.svg" width="100%" alt="FluxDown — Downloads, Supercharged."/></a>
+
+<div align="center">
+
+<a href="https://github.com/zerx-lab/FluxDown/stargazers"><img src="https://img.shields.io/github/stars/zerx-lab/FluxDown?style=flat-square&logo=github&label=Stars&labelColor=0d1117&color=3b82f6" alt="Stars"/></a>
+<a href="https://github.com/zerx-lab/FluxDown/releases/latest"><img src="https://img.shields.io/github/v/release/zerx-lab/FluxDown?style=flat-square&label=Release&labelColor=0d1117&color=06b6d4" alt="Release"/></a>
+<a href="https://github.com/zerx-lab/FluxDown/releases"><img src="https://img.shields.io/github/downloads/zerx-lab/FluxDown/total?style=flat-square&label=Downloads&labelColor=0d1117&color=22c55e" alt="Downloads"/></a>
+<a href="https://github.com/zerx-lab/FluxDown/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-8b5cf6?style=flat-square&labelColor=0d1117" alt="License"/></a>
+<a href="https://fluxdown.com"><img src="https://img.shields.io/badge/官网-fluxdown.com-f8fafc?style=flat-square&labelColor=0d1117" alt="Website"/></a>
+
+</div>
+
+Rust + Tokio 共享引擎，一套内核驱动 **GPUI 桌面 / Android / iOS / Web UI / CLI**。动态分段 + 慢分段救援，HTTP(S) · FTP · BitTorrent · eD2K · HLS · DASH 全覆盖；浏览器扩展三层拦截接管下载，内置 MCP 服务让 AI 也能帮你管理任务。**免费开源，没有广告，本地下载不需要账号。**
+
+<details>
+<summary><b>📸 看一眼界面</b></summary>
+<br/>
+<a href="https://fluxdown.com"><img src="./assets/fluxdown-preview.jpg" width="100%" alt="FluxDown 桌面端界面"/></a>
+</details>
+
+### 🧩 FluxDown 生态
+
+| 仓库 | 角色 | 说明 |
+|:--|:--|:--|
+| [**fluxdown-plugin-index**](https://github.com/zerx-lab/fluxdown-plugin-index) | 🔌 插件 | 去中心化插件索引：内容寻址 + 多源分发 + 防回滚 |
+| [**fluxdown-plugin-github-accel**](https://github.com/zerx-lab/fluxdown-plugin-github-accel) | 🔌 插件 | GitHub 文件下载自动加速，多加速源并行测速优选 |
+| [**fluxdown-plugin-accountdl**](https://github.com/zerx-lab/fluxdown-plugin-accountdl) | 🔌 插件 | 借浏览器已登录账号解析网盘分享 / B 站 / Pixiv / 知网直链 |
+| [**fluxdown-plugin-musicdl**](https://github.com/zerx-lab/fluxdown-plugin-musicdl) | 🔌 插件 | 全网音乐下载：网易云 / QQ / 酷狗 / 酷我 |
+| [**fluxdown-themes**](https://github.com/zerx-lab/fluxdown-themes) | 🎨 主题 | 社区主题市场，提交一个 PR 就能上架 |
+| [**fluxdown-sniff-rules**](https://github.com/zerx-lab/fluxdown-sniff-rules) | 🕸️ 规则 | 浏览器扩展的官方与社区嗅探规则 |
+| [**fluxdown-sniff-rules-template**](https://github.com/zerx-lab/fluxdown-sniff-rules-template) | 🕸️ 规则 | 维护自己嗅探规则仓库的模板 |
+| [**casaos-appstore**](https://github.com/zerx-lab/casaos-appstore) | 📦 分发 | CasaOS / ZimaOS 第三方应用商店 |
+| [**unraid-templates**](https://github.com/zerx-lab/unraid-templates) | 📦 分发 | Unraid Community Applications 模板 |
+| [**rqbit**](https://github.com/zerx-lab/rqbit) | 🧬 引擎 | Rust BitTorrent 客户端（fork） |
+| [sniff-rules-e2e](https://github.com/zerx-lab/sniff-rules-e2e) | 🗄️ 归档 | 嗅探规则端到端测试（已归档） |
+
+<br/>
+
+## 🌟 也在认真做
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 15px; margin: 10px;">
-        <h3 style="color: white; margin-bottom: 15px;">⚡ 算法&数据结构</h3>
-        <div style="background: rgba(255,255,255,0.2); border-radius: 20px; padding: 5px; margin: 10px 0;">
-          <div style="width: 80%; height: 8px; background: linear-gradient(90deg, #E74C3C, #C0392B); border-radius: 10px; position: relative;">
-            <span style="position: absolute; right: -30px; top: -20px; color: #FFD700; font-weight: bold; font-size: 14px;">80%</span>
-          </div>
-        </div>
-        <div style="color: rgba(255,255,255,0.9); font-size: 12px; margin-top: 10px;">
-          <strong>排序算法 • 树形结构 • 动态规划 • 图论</strong>
-        </div>
-      </div>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zerx-lab/zap">⌨️ Zap</a></h3>
+      开放、本地优先的 AI 终端。基于 Warp 开源版：无强制云端、自带任意 AI 供应商、接入 Claude Code / Codex 等 CLI Agent、内置 SSH 主机管理，中 / 英 / 日 / 俄多语言。
+      <br/><br/>
+      <a href="https://github.com/zerx-lab/zap"><img src="https://img.shields.io/github/stars/zerx-lab/zap?style=flat-square&logo=github&label=Stars&labelColor=0d1117&color=3b82f6" alt="Zap stars"/></a>
+      <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
     </td>
-    <td align="center" width="50%">
-      <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 25px; border-radius: 15px; margin: 10px;">
-        <h3 style="color: #333; margin-bottom: 15px;">🏗️ 系统架构</h3>
-        <div style="background: rgba(0,0,0,0.1); border-radius: 20px; padding: 5px; margin: 10px 0;">
-          <div style="width: 85%; height: 8px; background: linear-gradient(90deg, #9B59B6, #8E44AD); border-radius: 10px; position: relative;">
-            <span style="position: absolute; right: -30px; top: -20px; color: #8E44AD; font-weight: bold; font-size: 14px;">85%</span>
-          </div>
-        </div>
-        <div style="color: #555; font-size: 12px; margin-top: 10px;">
-          <strong>微服务 • 分布式 • 负载均衡 • 缓存策略</strong>
-        </div>
-      </div>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zerx-lab/wordZero">📄 WordZero</a></h3>
+      纯 Go 的 Word 文档操作库，遵循最新 OOXML 规范：文档创建与修改、样式体系、表格、模板引擎，零外部依赖。
+      <br/><br/>
+      <a href="https://github.com/zerx-lab/wordZero"><img src="https://img.shields.io/github/stars/zerx-lab/wordZero?style=flat-square&logo=github&label=Stars&labelColor=0d1117&color=3b82f6" alt="WordZero stars"/></a>
+      <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=white" alt="Go"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <div style="background: linear-gradient(135deg, #96fbc4 0%, #f9f047 100%); padding: 25px; border-radius: 15px; margin: 10px;">
-        <h3 style="color: #333; margin-bottom: 15px;">🌟 开源贡献</h3>
-        <div style="background: rgba(0,0,0,0.1); border-radius: 20px; padding: 5px; margin: 10px 0;">
-          <div style="width: 90%; height: 8px; background: linear-gradient(90deg, #2ECC71, #27AE60); border-radius: 10px; position: relative;">
-            <span style="position: absolute; right: -30px; top: -20px; color: #27AE60; font-weight: bold; font-size: 14px;">90%</span>
-          </div>
-        </div>
-        <div style="color: #555; font-size: 12px; margin-top: 10px;">
-          <strong>GitHub活跃 • 项目维护 • 社区建设 • 技术分享</strong>
-        </div>
-      </div>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zerx-lab/rmx">🧹 rmx</a></h3>
+      Windows 高性能并行目录删除工具，专治 <code>node_modules</code>、<code>target</code> 这类海量小文件目录，附带 GUI 与统计模式。
+      <br/><br/>
+      <a href="https://github.com/zerx-lab/rmx"><img src="https://img.shields.io/github/stars/zerx-lab/rmx?style=flat-square&logo=github&label=Stars&labelColor=0d1117&color=3b82f6" alt="rmx stars"/></a>
+      <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
     </td>
-    <td align="center">
-      <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 25px; border-radius: 15px; margin: 10px;">
-        <h3 style="color: #333; margin-bottom: 15px;">👥 团队领导</h3>
-        <div style="background: rgba(0,0,0,0.1); border-radius: 20px; padding: 5px; margin: 10px 0;">
-          <div style="width: 75%; height: 8px; background: linear-gradient(90deg, #FF6B35, #F39C12); border-radius: 10px; position: relative;">
-            <span style="position: absolute; right: -30px; top: -20px; color: #E67E22; font-weight: bold; font-size: 14px;">75%</span>
-          </div>
-        </div>
-        <div style="color: #555; font-size: 12px; margin-top: 10px;">
-          <strong>项目管理 • 团队协作 • 敏捷开发 • 技术指导</strong>
-        </div>
-      </div>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zerx-lab/PenBridge">✍️ PenBridge</a></h3>
+      写一次，处处发布：一键把文章同步到多个内容平台，配套思源笔记插件与 CLI。
+      <br/><br/>
+      <a href="https://github.com/zerx-lab/PenBridge"><img src="https://img.shields.io/github/stars/zerx-lab/PenBridge?style=flat-square&logo=github&label=Stars&labelColor=0d1117&color=3b82f6" alt="PenBridge stars"/></a>
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
     </td>
   </tr>
 </table>
 
-### 📊 技能成长轨迹
+<br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/💪_技术深度-Expert-blue?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🌟_学习能力-Excellent-brightgreen?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=000000"/>
-</div>
+## 🧪 实验室全部作品
 
-</div>
+<details open>
+<summary><b>🤖 AI 与 Agent 工具链</b></summary>
+<br/>
 
-</div>
-
----
-
-<details>
-<summary>🚀 <b>点击展开 - 深入了解 WordZero 项目</b></summary>
-<br>
-
-<div align="center">
-
-### 📈 WordZero 技术架构图
-
-```mermaid
-graph TB
-    A[WordZero Core Engine] --> B[Document Parser]
-    A --> C[Style System]
-    A --> D[Template Engine]
-    A --> E[Export Module]
-    
-    B --> F[OOXML Reader]
-    B --> G[Structure Analyzer]
-    
-    C --> H[Predefined Styles]
-    C --> I[Custom Styles]
-    C --> J[Style Inheritance]
-    
-    D --> K[Template Parser]
-    D --> L[Variable Resolver]
-    D --> M[Block System]
-    
-    E --> N[DOCX Generator]
-    E --> O[Format Converter]
-    
-    style A fill:#00ADD8,stroke:#fff,stroke-width:3px,color:#fff
-    style B fill:#61DAFB,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#F7DF1E,stroke:#000,stroke-width:2px,color:#000
-    style D fill:#FF6B35,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#8A2BE2,stroke:#fff,stroke-width:2px,color:#fff
-```
-
-### 🔥 核心优势对比
-
-| 特性 | WordZero | 其他方案 | 优势 |
-|------|----------|----------|------|
-| 🚀 **性能** | 2.62ms | 55.98ms+ | **21x 更快** |
-| 📦 **依赖** | 零依赖 | 多个依赖包 | **轻量级** |
-| 🎨 **样式** | 18种预定义 | 有限支持 | **功能丰富** |
-| 🔧 **模板** | 继承机制 | 基础模板 | **高级特性** |
-| 📄 **格式** | 完整OOXML | 部分支持 | **标准兼容** |
-
-</div>
+| 项目 | 说明 | 技术 |
+|:--|:--|:--|
+| [**zhive**](https://github.com/zerx-lab/zhive) | 终端 AI 协作 Agent：daemon 式引擎 + JSON-RPC harness，一个引擎、任意客户端 | Rust |
+| [**llmsdk**](https://github.com/zerx-lab/llmsdk) | 手感对齐 Vercel `ai-sdk` 的 Rust LLM SDK | Rust |
+| [**axon-ai**](https://github.com/zerx-lab/axon-ai) | 跨平台桌面 AI 编程助手，对话式完成编码、编辑与命令执行 | Tauri · React |
+| [**axon-doc**](https://github.com/zerx-lab/axon-doc) | AI 驱动的企业级智能知识库 | TypeScript |
+| [**LspProxy**](https://github.com/zerx-lab/LspProxy) | LSP 中文翻译代理：hover / 补全 / 诊断里的英文文档实时译成中文 | Go |
+| [**repoMcp**](https://github.com/zerx-lab/repoMcp) | 仓库源码检索 MCP：让 IM 机器人里的 LLM 带着可核验出处回答问题 | Go |
+| [**omp-dynamic-workflows**](https://github.com/zerx-lab/omp-dynamic-workflows) | 为 omp 打造的脚本化子 Agent 编排：并行、流水线、重试、质量门 | TypeScript |
+| [**gpui_ai_profile**](https://github.com/zerx-lab/gpui_ai_profile) | gpui + gpui-component 知识 profile，让 AI 写 GPUI 时不再幻觉 API | Go |
+| [**AiFox**](https://github.com/zerx-lab/AiFox) | AI/LLM 流量调试桌面工具：prompt、MCP、tool call 全链路可视化 | Go |
+| [**ccproxy_rs**](https://github.com/zerx-lab/ccproxy_rs) | Claude Code 订阅 → 本地 Anthropic / OpenAI 兼容 API 代理 | Rust |
+| [**ccproxy**](https://github.com/zerx-lab/ccproxy) | Claude Code 订阅转多种兼容格式 API（TS 版） | TypeScript |
+| [**ai-proxy**](https://github.com/zerx-lab/ai-proxy) | 可审计、可观测、带配额分发的 Claude 订阅反向代理网关 | Encore.ts |
+| [**localClaudeCodeProxy**](https://github.com/zerx-lab/localClaudeCodeProxy) | Claude Code 本地代理桌面应用 | Go · Wails3 |
+| [**zedSlashMcp**](https://github.com/zerx-lab/zedSlashMcp) | 给 Zed 用的斜杠命令 | Go |
+| [**aiRules**](https://github.com/zerx-lab/aiRules) | AI 编码助手使用规则集（UIthub API） | Markdown |
 
 </details>
 
----
+<details open>
+<summary><b>🖥️ 桌面与系统工具</b></summary>
+<br/>
+
+| 项目 | 说明 | 技术 |
+|:--|:--|:--|
+| [**zpass**](https://github.com/zerx-lab/zpass) | 零知识密码管理器，端到端加密，处处可用 | TypeScript |
+| [**oh-my-clear**](https://github.com/zerx-lab/oh-my-clear) | 键盘优先的跨平台系统清理工具，GPU 渲染界面 + 后台守护进程 | Rust · gpui-kit |
+| [**tuck**](https://github.com/zerx-lab/tuck) | macOS 原生菜单栏管理器，把杂乱图标收起来 | Swift |
+| [**jianyi**](https://github.com/zerx-lab/jianyi) | 简译：Linux 桌面轻量翻译，全局快捷键 + 划词翻译 | Rust · GPUI |
+| [**ZTrans**](https://github.com/zerx-lab/ZTrans) | Linux 弹窗翻译，Google / OpenAI 兼容双后端，流式输出 | Flutter · Rust |
+| [**tools**](https://github.com/zerx-lab/tools) | 70+ 离线开发者工具的跨平台桌面工具集 | Go · Wails3 |
+| [**ztools**](https://github.com/zerx-lab/ztools) | 个人 Windows 工具箱：修饰键 + 拖拽即可移动 / 缩放任意窗口 | C# · Avalonia |
+| [**KeyboardMonitoring**](https://github.com/zerx-lab/KeyboardMonitoring) | 全局键盘事件监听 | C# |
+
+</details>
+
+<details open>
+<summary><b>💻 Tern 终端插件</b></summary>
+<br/>
+
+| 项目 | 说明 | 技术 |
+|:--|:--|:--|
+| [**tern-office-preview**](https://github.com/zerx-lab/tern-office-preview) | 在 Tern 终端里原生预览 Word / Excel，Rust 渲染器驱动 | Rust · Luau |
+| [**tern-claude-usage**](https://github.com/zerx-lab/tern-claude-usage) | 在 Tern 里实时查看 Claude Pro/Max 用量（5h / 7d / 分模型） | Luau |
+
+</details>
+
+<details open>
+<summary><b>📝 文档与写作</b></summary>
+<br/>
+
+| 项目 | 说明 | 技术 |
+|:--|:--|:--|
+| [**wordZero**](https://github.com/zerx-lab/wordZero) | 纯 Go 的 Word 文档操作库 | Go |
+| [**PenBridge**](https://github.com/zerx-lab/PenBridge) | 一键发布文章到多个平台 | TypeScript |
+| [**PenBridgeSiyuan**](https://github.com/zerx-lab/PenBridgeSiyuan) | 思源笔记插件：一键发布当前文档到腾讯云开发者社区 | TypeScript |
+| [**penbridge-cli**](https://github.com/zerx-lab/penbridge-cli) | 可脚本化的思源笔记内核 API 命令行 | Go |
+| [**siyuan-share**](https://github.com/zerx-lab/siyuan-share) | 思源笔记分享插件：文档 / 块一键生成公开链接 | TypeScript |
+| [**daily-report**](https://github.com/zerx-lab/daily-report) | 基于思源笔记的日报自动化：自动建条目 + Web 管理 + 定时邮件 | Go |
+
+</details>
+
+<details open>
+<summary><b>🧱 脚手架与工程化</b></summary>
+<br/>
+
+| 项目 | 说明 | 技术 |
+|:--|:--|:--|
+| [**ZKit**](https://github.com/zerx-lab/ZKit) | 生产可部署、AI 友好的全栈后台脚手架，单二进制上线 | Go · connectRPC · React 19 |
+| [**Zera**](https://github.com/zerx-lab/Zera) | 快速开发脚手架 | TypeScript |
+| [**relay**](https://github.com/zerx-lab/relay) | Electron + Go 跨平台开发脚手架 | Go · Electron |
+| [**actions**](https://github.com/zerx-lab/actions) | 按服务分目录管理的 GitHub Actions 自动化流程 | Shell |
+| [**zabbix-deployment**](https://github.com/zerx-lab/zabbix-deployment) | Zabbix 7.0 LTS 离线部署 TUI 向导 | Bun · TypeScript |
+| [**LazyVim**](https://github.com/zerx-lab/LazyVim) | 我的 Neovim 配置，基于 LazyVim | Lua |
+
+</details>
+
+<details open>
+<summary><b>🌐 站点、小作品与练习场</b></summary>
+<br/>
+
+| 项目 | 说明 | 技术 |
+|:--|:--|:--|
+| [**zerx-lab-website**](https://github.com/zerx-lab/zerx-lab-website) | ZerxLab 官网与博客 [zerx.dev](https://zerx.dev)，全静态双语站点 | Astro |
+| [**zerx-lab**](https://github.com/zerx-lab/zerx-lab) | 就是你正在看的这个主页 | Markdown · SVG |
+| [**ji-key**](https://github.com/zerx-lab/ji-key) | 给媳妇做的打字练习网站 💝 | TypeScript |
+| [**get-topic**](https://github.com/zerx-lab/get-topic) | GetTopic 浏览器扩展 | WXT · React |
+| [**zmd5**](https://github.com/zerx-lab/zmd5) | MD5 解密工具 | Go · Fiber |
+| [**alterx**](https://github.com/zerx-lab/alterx) | 快速、可定制的子域名字典生成工具 | Go |
+| [**demos**](https://github.com/zerx-lab/demos) | Go MVC + 内嵌 SPA 管理后台示例 | Go |
+| [**azure-tauri-learn**](https://github.com/zerx-lab/azure-tauri-learn) | 用 GitHub Actions 三端打包 Tauri 应用 | Tauri |
+| [**github-copilot-learn**](https://github.com/zerx-lab/github-copilot-learn) | GitHub Actions 学习 demo | HTML |
+| [**azure_demo**](https://github.com/zerx-lab/azure_demo) | Azure 相关 Go 示例集合 | Go |
+| [**Ori**](https://github.com/zerx-lab/Ori) | 新坑，代码尚未公开 | — |
+
+</details>
+
+<details>
+<summary><b>🍴 Fork 与上游贡献</b> <sub>（点击展开）</sub></summary>
+<br/>
+
+| 方向 | 仓库 |
+|:--|:--|
+| ⌨️ 终端 / 编辑器 / GUI | [zap](https://github.com/zerx-lab/zap) · [term](https://github.com/zerx-lab/term)（Zed） · [nsh](https://github.com/zerx-lab/nsh) · [gpui-kit-showcases](https://github.com/zerx-lab/gpui-kit-showcases) · [rust-analyzer](https://github.com/zerx-lab/rust-analyzer) · [worktrunk](https://github.com/zerx-lab/worktrunk) · [DeepSeek-TUI](https://github.com/zerx-lab/DeepSeek-TUI) |
+| 🤖 AI / Agent | [zcode](https://github.com/zerx-lab/zcode)（omp） · [tau](https://github.com/zerx-lab/tau) · [opencode](https://github.com/zerx-lab/opencode) · [openclaw](https://github.com/zerx-lab/openclaw) · [ai](https://github.com/zerx-lab/ai)（Vercel AI SDK） · [bifrost](https://github.com/zerx-lab/bifrost) · [new-api](https://github.com/zerx-lab/new-api) · [peepie](https://github.com/zerx-lab/peepie) · [agent-browser](https://github.com/zerx-lab/agent-browser) · [everything-claude-code](https://github.com/zerx-lab/everything-claude-code) · [rust-skills](https://github.com/zerx-lab/rust-skills) · [langchaingo](https://github.com/zerx-lab/langchaingo) · [warp-proto-apis](https://github.com/zerx-lab/warp-proto-apis) · [next-ai-draw-io](https://github.com/zerx-lab/next-ai-draw-io) · [AIHOT](https://github.com/zerx-lab/AIHOT) · [firecrawl-docs](https://github.com/zerx-lab/firecrawl-docs) · [awesome-mcp-servers](https://github.com/zerx-lab/awesome-mcp-servers) · [awesome-mcp-servers-1](https://github.com/zerx-lab/awesome-mcp-servers-1) |
+| ⬇️ 下载 | [rqbit](https://github.com/zerx-lab/rqbit) · [lux](https://github.com/zerx-lab/lux) |
+| 🧱 运行时 / 框架 / 库 | [bun](https://github.com/zerx-lab/bun) · [salvo](https://github.com/zerx-lab/salvo) · [gorm](https://github.com/zerx-lab/gorm) · [lute](https://github.com/zerx-lab/lute) · [convex-js](https://github.com/zerx-lab/convex-js) · [bazaar](https://github.com/zerx-lab/bazaar) |
+| 📣 收录与分发渠道 | [awesome-rust](https://github.com/zerx-lab/awesome-rust) · [awesome-alternatives-in-rust](https://github.com/zerx-lab/awesome-alternatives-in-rust) · [awesome-flutter](https://github.com/zerx-lab/awesome-flutter) · [awesome-social-media-downloader](https://github.com/zerx-lab/awesome-social-media-downloader) · [awesome-free-apps](https://github.com/zerx-lab/awesome-free-apps) · [best-chrome-extensions](https://github.com/zerx-lab/best-chrome-extensions) · [awesome-windows](https://github.com/zerx-lab/awesome-windows) · [awesome-windows-1](https://github.com/zerx-lab/awesome-windows-1) · [awesome-windows-2](https://github.com/zerx-lab/awesome-windows-2) · [Awesome-Linux-Software](https://github.com/zerx-lab/Awesome-Linux-Software) · [awesome-macOS](https://github.com/zerx-lab/awesome-macOS) · [awesome-mac](https://github.com/zerx-lab/awesome-mac) · [awesome-homelab](https://github.com/zerx-lab/awesome-homelab) · [awesome-selfhosted-data](https://github.com/zerx-lab/awesome-selfhosted-data) · [open-source-android-apps](https://github.com/zerx-lab/open-source-android-apps) · [android-foss](https://github.com/zerx-lab/android-foss) · [chinese-independent-developer](https://github.com/zerx-lab/chinese-independent-developer) · [portainer-templates](https://github.com/zerx-lab/portainer-templates) · [unRAID-CA-templates](https://github.com/zerx-lab/unRAID-CA-templates) · [Extras](https://github.com/zerx-lab/Extras)（Scoop） |
+| 🗂️ 其他 | [ARTEX-EN](https://github.com/zerx-lab/ARTEX-EN) · [real-time-fund](https://github.com/zerx-lab/real-time-fund) |
+
+</details>
+
+<br/>
+
+## 🛠️ 工具箱
 
 <div align="center">
 
-## 🌐 联系矩阵 & 协作邀请
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img width="80" height="80" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
-        <h4>📧 商务合作</h4>
-        <a href="mailto:166997982@qq.com">
-          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-        </a>
-        <p><i>项目合作 • 技术咨询</i></p>
-      </td>
-      <td align="center" width="25%">
-        <img width="80" height="80" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"/>
-        <h4>🐙 开源世界</h4>
-        <a href="https://github.com/ZerxLab">
-          <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
-        </a>
-        <p><i>代码分享 • 项目协作</i></p>
-      </td>
-      <td align="center" width="25%">
-        <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-        <h4>🌟 核心项目</h4>
-        <a href="https://github.com/ZerxLab/wordZero">
-          <img src="https://img.shields.io/badge/WordZero-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-        </a>
-        <p><i>文档处理 • 技术创新</i></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🤝 寻找志同道合的伙伴
-
-<div align="center">
-
-> **"独行快，众行远"** 🌟  
-> 如果您对以下领域感兴趣，欢迎与我交流合作：
-
-**🎯 合作方向**
-- 🔥 **Golang生态建设** - 高性能后端服务开发
-- 🎨 **React前端创新** - 现代化用户界面设计  
-- 📄 **文档处理技术** - 办公自动化解决方案
-- 🌐 **开源项目贡献** - 推动技术社区发展
-- 🚀 **技术分享交流** - 知识传播与学习成长
-
-**💌 期待您的联系！**
+<img src="https://skillicons.dev/icons?i=rust,go,ts,react,tauri,swift,flutter,cs,lua&theme=dark" alt="Languages and frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=astro,bun,vite,tailwind,docker,postgres,sqlite,linux,apple&theme=dark" alt="Tooling and platforms"/>
 
 </div>
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-## 🎉 感谢您的关注
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
-**⭐ 如果您觉得我的项目有价值，请不要吝啬您的Star！ ⭐**
-
-[![GitHub followers](https://img.shields.io/github/followers/ZerxLab?style=for-the-badge&logo=github&label=🌟_关注我&color=yellow&labelColor=000000)](https://github.com/ZerxLab?tab=followers)
-[![WordZero Stars](https://img.shields.io/github/stars/ZerxLab/wordZero?style=for-the-badge&logo=github&label=⭐_给WordZero点星&color=gold&labelColor=000000)](https://github.com/ZerxLab/wordZero)
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=代码改变世界，创新驱动未来&author=ZerxLab" alt="Quote"/>
-</div>
-
-### 🚀 让我们一起构建更美好的开源世界！
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-</div>
+<a href="https://zerx.dev"><img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by — ZerxLab"/></a>
